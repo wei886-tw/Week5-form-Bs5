@@ -1,7 +1,14 @@
+// *{
+    //     outline: 2px solid orange;
+    // }
+
 .nav{   
-    h1{
-        text-indent: 110%;
-        overflow: hidden;
-        white-space: nowrap;
-    }
+    position: fixed;
+    min-width: 200px;
+    min-height: 100vh;
 }
+
+table{
+    width: 100%;
+}
+
