@@ -1,14 +1,30 @@
-// *{
-    //     outline: 2px solid orange;
-    // }
-
-.nav{   
-    position: fixed;
-    min-width: 200px;
-    min-height: 100vh;
+body {
+	font-family: "Lato", "Roboto Mono", "sans-serif";
+    img{
+        display: block;
+        max-width: 100%;
+        height: auto;
+    }
 }
 
-table{
-    width: 100%;
+.andy-email{
+    font-size: 14px;
+    color: #6C757D;
 }
 
+.nav {
+	position: fixed;
+	min-width: 200px;
+	min-height: 100vh;
+}
+
+
+
+table {
+	width: 100%;
+}
+
+.emir{
+    width: 141px;
+    height: 141px;
+}
